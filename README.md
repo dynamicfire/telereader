@@ -9,6 +9,7 @@
 > 最近在看`Python`，所以这只是用来练手
 
 直接使用编译好的可执行文件，请在[release](https://github.com/dynamicfire/telereader/releases)下载对应的版本，目前只有Windows版
+
 然后直接运行即可。
 
 或者
@@ -25,3 +26,12 @@ python novel.py
 ![2](https://raw.githubusercontent.com/dynamicfire/telereader/master/images/2.png)
 ![3](https://raw.githubusercontent.com/dynamicfire/telereader/master/images/3.png)
 ![4](https://raw.githubusercontent.com/dynamicfire/telereader/master/images/4.png)
+
+## **TODO:**
+
+- [x] 最新章节
+- [x] 目录获取
+- [x] 翻页
+- [x] 搜索获取
+- [ ] 上次阅读
+- [ ] 阅读书单
