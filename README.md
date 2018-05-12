@@ -16,6 +16,7 @@
 ```
 git clone https://github.com/dynamicfire/telereader.git
 cd telereader
+pip install -r requirements.txt
 python novel.py
 ```
 
