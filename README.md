@@ -19,6 +19,7 @@ cd telereader
 pip install -r requirements.txt
 python novel.py
 ```
+需要Python 3
 
 若觉得还可以，就给个 **star** 吧
 
