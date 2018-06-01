@@ -7,7 +7,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/dynamicfire/telereader.svg)](https://github.com/dynamicfire/telereader/issues)
 
 > 最近在看`Python`，所以这只是用来练手
+
 > 新增独立下载器
+
 直接使用编译好的可执行文件，请在[release](https://github.com/dynamicfire/telereader/releases)下载对应的版本，目前只有Windows版
 
 然后直接运行即可。
